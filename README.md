@@ -1,5 +1,7 @@
 # Clipmaster 9000
 
+This application was built for the [Build Cross-Platform Desktop Apps with Electron Course](https://frontendmasters.com/courses/electron/) for Frontend Masters.
+
 ## Getting Started and Acclimated
 
 To get started, clone this repository and install the dependencies using `npm install`.
